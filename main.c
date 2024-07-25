@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <assert.h> 
-#include "numconvtopaircolour.h"
-#include "pair2numberconversion.h"
+#include "paircolours.h"
+#include "numberconversions.h"
 #include "pairscolourdata.h"
 
 
